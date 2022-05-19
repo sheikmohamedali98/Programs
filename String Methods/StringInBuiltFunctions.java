@@ -11,7 +11,7 @@ public class StringInBuiltFunctions {
         BufferedReader read = new BufferedReader( new InputStreamReader( System.in) );
         System.out.println( "Enter Input String ");
         // String input = new String( read.readLine() );
-        String input = "jeyasingh alex rathana bala" ;
+        String input = "jeyasingh alex " ;
         StringFunctions str = new StringFunctions( input );
 
         System.out.println( "\nString \n" +  input );
